@@ -1,0 +1,16 @@
+{
+  "name": "chriscowley-gitlab",
+  "version": "0.1.0",
+  "author": "chriscowley",
+  "summary": "Install Gitlab on CentOS",
+  "license": "Apache 2.0",
+  "source": "https://github.com/chriscowley/chriscowley-gitlab.git",
+  "project_page": "https://github.com/chriscowley/chriscowley-gitlab",
+  "issues_url": "https://github.com/chriscowley/chriscowley-gitlab/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ]
+}
